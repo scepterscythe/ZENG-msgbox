@@ -6,7 +6,6 @@
 src中是核心文件：
 
 msgbox.min.js 是msgbox.js 的压缩版文件；
-
 msgbox.css 是样式。
 
 具体例子可以看demo中的文件是如何使用的：
